@@ -1,0 +1,6 @@
+[
+  {
+    "sheetName": "Reporte Semanal",
+    "queryPath": "./queries/Reporte_Correos_Jobs.sql"
+  }
+]
